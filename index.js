@@ -1,5 +1,5 @@
 document.querySelector('body').onclick = function(e) {
-    // if(e.target.className != 'close') return
+    if(e.target.className != 'close') return
     let item = e.target.closest('.box1')
     item.style.display = 'none'
     document.querySelector('.box2').style.display = 'block';
