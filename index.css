@@ -270,6 +270,7 @@ h4{
 
       }
       .ikoni{
+           height: 10vh;
         margin:  auto;
         background-color: #fff;
         /* position: relative;
@@ -278,6 +279,7 @@ h4{
         transform: translate(-50%, 50%); */
       }
       .header{
+           height: 10vh;
         background-color: #fffefe;
         display: flex;
         align-items: center;
@@ -298,10 +300,10 @@ h4{
         background-image:url(photo_2024-04-27_10-20-06.jpg) ;
         background-size: 100% 100%;
         background-repeat:no-repeat;
-        height: 90vh  ;
+        height: 70vh  ;
       }
       .cont .box1 {
-        height: 100vh;
+        height: 90vh;
           }
 
       }
